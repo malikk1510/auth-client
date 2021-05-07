@@ -1,3 +1,3 @@
 export const constants = {
-  endpoint: "http://localhost:4000/api",
+  endpoint: "https://mohd-basic-auth.herokuapp.com/",
 };
